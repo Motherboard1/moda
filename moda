@@ -1,0 +1,24 @@
+#! /bin/bash
+# Author: wisdom christian
+# modification: 21/03/2023
+
+
+echo "THIS SCRIPT WILL ASK ABOUT YOUR DETAILS BEFORE GRANTING YOU ACCESS"
+
+echo "My name is wisdom"
+
+echo "what is your name?"
+read namecont
+echo
+sleep 5
+echo hello $namecont
+sleep 3
+echo "what is your profession"
+read namecont
+echo
+sleep 4
+echo nice $namecont
+sleep 5
+echo "initializing your data"
+sleep 5
+echo "congratulation we have given you the job offer"
